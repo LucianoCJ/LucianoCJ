@@ -3,7 +3,7 @@
 
 - 🌱 Estoy siempre en constante aprendizaje **Cursos de JAVASCRIT y el en proyecto LAUCH-X-LATINOAMERICA de Microsoft**
 
-- 👯 Colaboro para el programa multicidiplinario artesanias de la UNIVESIDAS AUTONOMA METROPOLITANA [PROMDyA](promdya-uam.mx)
+- 👯 Colaboro para el programa multicidiplinario artesanias de la UNIVESIDAD AUTÓNOMA METROPOLITANA [PROMDyA](promdya-uam.mx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
