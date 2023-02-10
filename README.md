@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jose Luciano</h1>
 <h3 align="center">Un apasionado del análisis de datos y desarrollador.</h3>
 
-- 🌱 Estoy siempre en constante aprendizaje **Cursos de JAVASCRIT y el en proyecto LAUCH-X-LATINOAMERICA de Microsoft**
+- 🌱 Estoy siempre en constante actualización con  **Cursos de JAVASCRIT y el en proyecto LAUCH-X-LATINOAMERICA de Microsoft**
 
 - 👯 Colaboro para el programa multicidiplinario artesanias de la UNIVESIDAD AUTÓNOMA METROPOLITANA [PROMDyA](promdya-uam.mx)
 
